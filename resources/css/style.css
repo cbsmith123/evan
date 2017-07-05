@@ -1,0 +1,17 @@
+/* Bootstrap Overrides */
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: inherit;
+  color: #399bd1;
+}
+
+  .navbar {
+    margin: 0 auto;
+    margin-top: 2rem;
+    width: 90%;
+  }
+
+body {
+  background-color: gray;
+}
